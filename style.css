@@ -1,0 +1,13 @@
+/*
+ Theme Name:   Keith Bachand Child Theme
+ Theme URI:    http://www.keithbachand.com
+ Description:  Basic child theme
+ Author:       kbachand
+ Author URI:   http://www.keithbachand.com
+ Template:     basic
+ Version:      1.0.0
+*/
+
+.custom-background .wrapper {
+ background-color: rgb(255,255,255,0.5)!important;
+}
